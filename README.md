@@ -1,5 +1,8 @@
 # FinKube
 
+![FinKube Logo](https://github.com/somikbehera/FinKube/raw/main/Downloads/FinKube-Logo.png)
+--
+
 We want FinKube to enable Developers, DevOps, SRE and Engineering leaders in the Cloud Native community to speak the language of "Business", empowering them to create business cases and pricing plans for their Cloud Native initiatives.
 
 > Welcome to the #FinKube Community!
