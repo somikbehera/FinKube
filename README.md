@@ -33,4 +33,5 @@ All resources are also available at:
 Please file a Github issue or bring up your question/request in the community #Slack channels
 
 **License**
+
 This work is created and (c) 2022 by Somik Behera and  licenced for unrestricted use under [Apache 2 License](https://www.apache.org/licenses/LICENSE-2.0) and [Creative Commons License](http://creativecommons.org/licenses/by/4.0/)
